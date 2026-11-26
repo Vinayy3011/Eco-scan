@@ -1,0 +1,6 @@
+{
+  "name": "EcoScan – AI Smart Waste Segregation Simulation",
+  "description": "Interactive smart recycling plant simulation demonstrating automated waste detection, simulated AI classification, conveyor sorting, real-time analytics, and failure rate monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
